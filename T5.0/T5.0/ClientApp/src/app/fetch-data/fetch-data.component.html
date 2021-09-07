@@ -1,0 +1,22 @@
+<h1 id="tableLabel">Requests Information</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+<p *ngIf="!requests"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="forecasts">
+  <thead>
+    <tr>
+      <th>Request Id</th>
+      <th>Mobile Number</th>
+      <th>Request Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let request of requests">
+      <td>{{ request.RequestId }}</td>
+      <td>{{ request.MobileNumber }}</td>
+      <td>{{ request.RequestDate }}</td>
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,12 @@
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\bin\Debug\EFLayer.dll.config
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\bin\Debug\EFLayer.dll
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\bin\Debug\EFLayer.pdb
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\bin\Debug\EntityFramework.dll
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\bin\Debug\EntityFramework.xml
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\obj\Debug\EFLayer.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\obj\Debug\EFLayer.csproj.CopyComplete
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\obj\Debug\EFLayer.dll
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\obj\Debug\EFLayer.pdb
+C:\Users\AbdullahZezo\source\repos\T4.7.2\EFLayer\obj\Debug\EFLayer.csproj.AssemblyReference.cache

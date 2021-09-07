@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RequestsModelStoreContainer" CdmEntityContainer="RequestsEntities">
+    <EntitySetMapping Name="requestInfoes">
+      <EntityTypeMapping TypeName="RequestsModel.requestInfo">
+        <MappingFragment StoreEntitySet="requestInfo">
+          <ScalarProperty Name="RequestId" ColumnName="RequestId" />
+          <ScalarProperty Name="MobileNumber" ColumnName="MobileNumber" />
+          <ScalarProperty Name="RequestDate" ColumnName="RequestDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
